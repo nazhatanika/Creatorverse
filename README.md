@@ -34,8 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<!-- Replace this with whatever GIF tool you used! -->
+![Kapture 2025-08-11 at 23 08 36](https://github.com/user-attachments/assets/b595f3d4-dd3a-474d-aa3d-fa512a3d82db)
 GIF created with Kap
 ## Notes
 
